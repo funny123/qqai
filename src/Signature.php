@@ -1,5 +1,5 @@
 <?php
-
+namespace funny123\qqai;
 class Signature
 {
     // getReqSign ：根据 接口请求参数 和 应用密钥 计算 请求签名

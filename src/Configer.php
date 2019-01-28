@@ -1,5 +1,5 @@
 <?php
-
+namespace funny123\qqai;
 class Configer
 {
 	const API_URL_PATH = 'https://api.ai.qq.com/fcgi-bin/';

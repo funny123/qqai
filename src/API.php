@@ -1,5 +1,5 @@
 <?php
-
+namespace funny123\qqai;
 class API
 {
 	const CHUNK_SIZE = 6400;

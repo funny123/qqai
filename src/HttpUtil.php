@@ -1,5 +1,5 @@
 <?php
-
+namespace funny123\qqai;
 class HttpUtil
 {
     private static $_http_code;
