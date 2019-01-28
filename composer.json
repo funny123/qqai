@@ -1,0 +1,24 @@
+{
+    "name"       : "funny123/qqai",
+    "description": "AI\u0000\u0000\u0000\u0000SDK",
+    "type"       : "library",
+    "require"    : {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "funny123\\qqai\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name" : "marlon",
+            "email": "524656859@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
