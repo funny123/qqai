@@ -19,6 +19,6 @@
             "name" : "marlon",
             "email": "524656859@qq.com"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
+
 }
