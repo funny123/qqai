@@ -3,10 +3,10 @@
     "description": "AI\u0000\u0000\u0000\u0000SDK",
     "type"       : "library",
     "require"    : {
-        "php": ">=7.0.0"
+        "php": ">=5.6.0"
     },
     "require-dev": {
-        "php": "^7.2"
+        "php": "^5.6"
     },
     "autoload": {
         "psr-4": {
